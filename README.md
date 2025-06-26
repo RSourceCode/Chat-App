@@ -162,9 +162,7 @@ The following environment variables are required for the backend:
 
 | Variable       | Description                          |
 |----------------|--------------------------------------|
-| `PORT`         | Port number for the backend server   |
 | `MONGO_URI`    | MongoDB connection string            |
-| `JWT_SECRET`   | Secret key for JWT    authentication |
 
 ---
 
