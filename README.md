@@ -189,12 +189,6 @@ Contributions are welcome! Follow these steps to contribute:
 
 ---
 
-## **License**
-
-This project is licensed under the IIT License.
-
----
-
 ## **Contact**
 
 For any questions or feedback, feel free to reach out:
